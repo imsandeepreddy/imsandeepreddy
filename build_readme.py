@@ -60,7 +60,7 @@ if __name__ == "__main__":
 	rewritten = readme_contents
 	rewritten = replace_chunk(rewritten, "programmer_humor_img", update_programmer_humor_img("ProgrammerHumor"))
 
-	posts = fetch_blog_posts("https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@lifeparticle")
+	posts = fetch_blog_posts("https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@imsandeepreddy")
 	if len(posts) != 0:
 		# markdown formatting
 		posts_md = "\n".join(
