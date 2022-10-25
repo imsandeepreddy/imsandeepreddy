@@ -12,19 +12,6 @@ import os
 
 root = pathlib.Path(__file__).parent.resolve()
 
-def update_programmer_humor_img(name):
-	try:
-		client = ImgurClient(os.environ['CLIENT_ID'], os.environ['CLIENT_SECRET'])
-		items = client.subreddit_gallery(name, sort='top', window='week', page=0)
-		for item in items:
-			if item.link.endswith(".mp4") or item.link.endswith(".gif"):
-				continue
-			else:
-				return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img max-height="400" width="350" src="{}"></a>'.format(item.id, item.link)
-		return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img max-height="400" width="350" src="https://i.imgur.com/{}"></a>'.format("SV767tT", "SV767tT")
-	except ImgurClientError as e:
-		print(e.error_message)
-
 def replace_chunk(content, marker, chunk, inline=False):
 	# build the regular expression pattern, DOTALL will match any character, including a newline
 	r = re.compile(
@@ -58,7 +45,6 @@ if __name__ == "__main__":
 
 	readme_contents = readme.open().read()
 	rewritten = readme_contents
-	rewritten = replace_chunk(rewritten, "programmer_humor_img", update_programmer_humor_img("ProgrammerHumor"))
 
 	posts = fetch_blog_posts("https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@imsandeepreddy")
 	if len(posts) != 0:
