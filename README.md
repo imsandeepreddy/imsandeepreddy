@@ -6,7 +6,7 @@
 - 👯 Looking to collaborate on open source cloud native tools
 - 📫 Reach me: sandeepreddym03@gmail.com
 
-#### 😎🤟🎆🏝️🏋️🇮🇳##
+#### 😎🤟🎆🏝️🏋️🇮🇳
 
 ### Medium posts
 
