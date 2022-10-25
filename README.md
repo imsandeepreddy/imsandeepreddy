@@ -8,19 +8,11 @@
 
 #### 😎🤟🎆🏝️🏋️🇮🇳##
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center"> My latest Medium posts </h3>
+### Medium posts
 
 <!-- blog starts -->
 * [What is GitHub Actions?](https://imsandeepreddy.medium.com/what-is-github-actions-a0b2ff090a73?source=rss-42871914aff0------2) <br/> <sub>2022-09-27</sub>
 <!-- blog ends -->
-     
-</td>
-</tr>
-</table>
 
 <!-- programmer_humor_img starts -->
 <a href="https://imgur.com/r/ProgrammerHumor/pjXfbSY"><img max-height="400" width="350" src="https://i.imgur.com/pjXfbSY.png"></a>
