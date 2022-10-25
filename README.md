@@ -12,6 +12,8 @@
 
 <!-- blog starts -->
 * [What is GitHub Actions?](https://imsandeepreddy.medium.com/what-is-github-actions-a0b2ff090a73?source=rss-42871914aff0------2) <br/> <sub>2022-09-27</sub>
+* [What is DevOps?](https://imsandeepreddy.medium.com/what-is-devops-d7b73cc9f833?source=rss-42871914aff0------2) <br/> <sub>2022-09-21</sub>
+* [Kubernetes setup](https://imsandeepreddy.medium.com/kubernetes-setup-46a3837be2f?source=rss-42871914aff0------2) <br/> <sub>2022-05-24</sub>
 <!-- blog ends -->
 
 <!-- programmer_humor_img starts -->
