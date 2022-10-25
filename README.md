@@ -1,4 +1,4 @@
-### Hi, this is Sandeep Reddy 👋
+### Hello, this is Sandeep Reddy 👋
 
 ### 🤓 DevOps/Cloud enthusiast
 - 🔭 Currently configuring CICD pipeline to deploy on Kubernetes
