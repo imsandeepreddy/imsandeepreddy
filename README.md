@@ -22,6 +22,4 @@
 
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
      
-[linktree]: https://linktr.ee/lifeparticle
-[gist]: https://gist.github.com/lifeparticle
-[aurthohin]: https://github.com/lifeparticle/Aurthohin
+[linktree]: https://linktr.ee/imsandeepreddy
