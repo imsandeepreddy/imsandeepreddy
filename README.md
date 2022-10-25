@@ -1,5 +1,5 @@
 <!-- Continuous Improvement Programme - CIP -->
-### 👋  Hello all
+### 👋  Hello folks
 
 <table>
 <tr>
