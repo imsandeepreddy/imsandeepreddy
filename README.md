@@ -20,13 +20,13 @@
 <!-- <a href="https://imgur.com/r/ProgrammerHumor/oqYSqA5"><img max-height="400" width="350" src="https://i.imgur.com/oqYSqA5.png"></a> -->
 <!-- programmer_humor_img ends -->
 
-<div id="header" align="center">
+<div id="header" align="left">
   <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <div id="badges">
-    <a href="https://linkedin.com/in/sandeep-reddy-00a8b839/" target="_blank" rel="noopener noreferrer">
+    <a href="https://linkedin.com/in/sandeep-reddy-00a8b839/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/urssanny" target="_blank" rel="noopener noreferrer">
+    <a href="https://twitter.com/urssanny">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
