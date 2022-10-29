@@ -7,7 +7,7 @@
 - 📫 Reach me: sandeepreddym03@gmail.com
 
 #### 😎🤟🎆🏝️🏋️🇮🇳
-
+---
 ### Medium posts
 
 <!-- blog starts -->
@@ -15,7 +15,7 @@
 * [What is DevOps?](https://imsandeepreddy.medium.com/what-is-devops-d7b73cc9f833?source=rss-42871914aff0------2) <br/> <sub>2022-09-21</sub>
 * [Kubernetes setup](https://imsandeepreddy.medium.com/kubernetes-setup-46a3837be2f?source=rss-42871914aff0------2) <br/> <sub>2022-05-24</sub>
 <!-- blog ends -->
-
+---
 <!-- programmer_humor_img starts -->
 <!-- <a href="https://imgur.com/r/ProgrammerHumor/oqYSqA5"><img max-height="400" width="350" src="https://i.imgur.com/oqYSqA5.png"></a> -->
 <!-- programmer_humor_img ends -->
