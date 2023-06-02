@@ -7,6 +7,7 @@
 - 📫 Reach me: sandeepreddym03@gmail.com
 
 #### 😎🤟🎆🏝️🏋️🇮🇳
+[Resume](https://imsandeepreddy.com/resume){:target="_blank"}
 ---
 ### Medium posts
 
