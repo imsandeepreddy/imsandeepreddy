@@ -7,8 +7,6 @@
 - 📫 Reach me: sandeepreddym03@gmail.com
 
 #### 😎🤟🎆🏝️🏋️🇮🇳
-<a href="https://example.com" onclick="window.open(this.href, '_blank'); return false;">Open in New Tab</a>
-[Resume](https://imsandeepreddy.com/resume){:target="_blank"}
 ---
 ### Medium posts
 
