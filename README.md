@@ -1,32 +1,44 @@
-### Hello, this is Sandeep Reddy 👋
+# Hi there, I'm Sandeep Reddy 👋
 
-### 🤓 DevOps/Cloud enthusiast
-- 🔭 Currently configuring CICD pipeline to deploy on Kubernetes
-- 🌱 Learning Cloud native technologies
-- 👯 Looking to collaborate on open source cloud native tools
-- 📫 Reach me: sandeepreddym03@gmail.com
+Welcome to my GitHub profile! I'm a passionate DevOps engineer interested in DevOps tools, cloud services, cloud-native and open-source contributions. I love exploring new technologies and applying them to solve real-world problems.
 
-#### 😎🤟🎆🏝️🏋️🇮🇳
+## 🛠️ Technologies & Tools
+- **DevOps:** GitHub Actions, Jenkins, Docker, Kubernetes, CI/CD with GitHub Actions
+- **Cloud:** AWS, Azure
+- **Languages:** Python, JavaScript, Java
+- **Version Control:** Git, GitHub
+
+
+## 📈 GitHub Stats
+
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsandeepreddy&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- Email: sandeepreddym03@gmail.com
+- LinkedIn: [Sandeep Reddy](https://www.linkedin.com/in/sandeep-reddy-00a8b839/)
+- Twitter: [@imsandeepreddy](https://twitter.com/ursanny)
+
+## 🔭 What I'm currently working on
+
+- Currently configuring CICD pipeline to deploy on Kubernetes
+- Contributing to open-source projects on GitHub
+- Learning about cloud computing and serverless architecture
+
+## 🌱 What I'm learning
+
+- DevOps practices and tools
+- GenAI
+
+## 💬 Ask me about
+
+- DevOps
+- Open-source contributions and collaboration
+
+## 🤝 Let's connect!
+
+Feel free to reach out if you want to collaborate on projects or just chat about tech. I'm always open to new opportunities and connections.
+
 ---
-### Medium posts
 
-<!-- blog starts -->
-* [What is GitHub Actions?](https://imsandeepreddy.medium.com/what-is-github-actions-a0b2ff090a73?source=rss-42871914aff0------2) <br/> <sub>2022-09-27</sub>
-* [What is DevOps?](https://imsandeepreddy.medium.com/what-is-devops-d7b73cc9f833?source=rss-42871914aff0------2) <br/> <sub>2022-09-21</sub>
-* [Kubernetes setup](https://imsandeepreddy.medium.com/kubernetes-setup-46a3837be2f?source=rss-42871914aff0------2) <br/> <sub>2022-05-24</sub>
-<!-- blog ends -->
----
-<!-- programmer_humor_img starts -->
-<!-- <a href="https://imgur.com/r/ProgrammerHumor/oqYSqA5"><img max-height="400" width="350" src="https://i.imgur.com/oqYSqA5.png"></a> -->
-<!-- programmer_humor_img ends -->
-
-<div id="header" align="left">
-  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-  <div id="badges">
-    <a href="https://linkedin.com/in/sandeep-reddy-00a8b839/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/urssanny">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
+**"Code is like humor. When you have to explain it, it’s bad." – Cory House**
